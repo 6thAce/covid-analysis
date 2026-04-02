@@ -17,3 +17,9 @@ The project applies data science techniques such as data cleaning, exploratory d
 ---
 
 ## 📂 Repository Structure
+covid-analysis/ 
+│── data/ # Raw and processed datasets 
+│── notebooks/ # Jupyter notebooks for analysis 
+│── visuals/ # Generated charts and graphs 
+│── src/ # Scripts (if applicable) 
+│── README.md # Project documentation 
